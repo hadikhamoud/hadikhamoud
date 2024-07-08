@@ -1,6 +1,6 @@
-- 👋 @hadikhamoud
-- 👀 I’m interested in Machine Learning, Natural Language Processing, and Software Engineering
-- 🌱 Currently Working in the Arab Center for Research and Policy Studies
+- @hadikhamoud
+- Interested in ML, NLP, CL for Arabic. 
+- Currently Working in the Arab Center for Research and Policy Studies
 
 
 <!---
