@@ -1,3 +1,3 @@
 - @hadikhamoud
 - Interested in ML, NLP, CL for Arabic. 
-- Currently Working in the Arab Center for Research and Policy Studies, Doha Qatar.
+- Currently Working in the U4RASD, Arab Center for Research and Policy Studies, Doha Qatar.
